@@ -1,4 +1,5 @@
-pandas
 bs4
 requests
 html5lib
+pillow
+tqdm
